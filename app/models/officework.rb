@@ -1,0 +1,2 @@
+class Officework < ApplicationRecord
+end
